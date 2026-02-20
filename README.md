@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frankuard)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frankuard)]
 
 ###
