@@ -1,4 +1,4 @@
-<h2 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">! My name is Roshan Karki and I'm a Web Development, AI, ML Enthusiast</h2>
+<h2 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">! My name is Roshan Karki and I'm a Web Development, AI, ML Enthusiast</h2>
 
 ###
 
