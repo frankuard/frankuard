@@ -71,7 +71,7 @@
 
 ###
 
-<h3 align="left">Social Media:</h3>
+<h2 align="left">Social Media:</h2>
 
 ###
 
