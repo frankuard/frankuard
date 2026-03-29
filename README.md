@@ -96,5 +96,7 @@
 
 <br clear="both">
 <img src="https://trophy.ryglcloud.net/?username=frankuard&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Roshan Karki's GitHub Trophies" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=frankuard&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=frankuard" alt="GitHub Streak" /> </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=frankuard&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
