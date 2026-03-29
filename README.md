@@ -63,6 +63,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="40"/> 
   <img width="12" />
    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" height="40"/>
 </div>
 
 ###
