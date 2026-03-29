@@ -94,7 +94,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
-  <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" height="40" alt=" logopacket tracer"  />
+  <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" height="40" alt="packet tracer"  />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*8_XcK-4JejVJIpccI8TJow.jpeg" height="40" alt="wireshark logo"  />
   </div>
   
 ###
