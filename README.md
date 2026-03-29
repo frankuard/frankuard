@@ -61,6 +61,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="40"/> 
+  <img width="12" />
+   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="40"/>
 </div>
 
 ###
