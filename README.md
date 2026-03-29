@@ -1,4 +1,4 @@
-<h2 align="left">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="25px" width="25px"> My name is Roshan Karki and I'm a Web Development, AI, ML Enthusiast</h2>
+<h2 align="left">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="25px" width="25px">, My name is Roshan Karki and I'm a Web Development, AI, ML Enthusiast</h2>
 
 ###
 
