@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">🛠 Language and tools <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="35px" width="35px"> </h2>
 
 
 ###
