@@ -7,15 +7,14 @@
 
 ###
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="50%" />
-<br>
-<img align="right" height="180" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzn6ySgfkU72D49RXBY0WqSnq_3v3p7vvgCA&s"  />
+
 
 ###
 
 <h3 align="left">Frontend Development</h3>
 
 ###
-
+<img align="right" height="180" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzn6ySgfkU72D49RXBY0WqSnq_3v3p7vvgCA&s"  />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
