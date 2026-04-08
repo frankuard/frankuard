@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  
 </div>
 
 ###
@@ -65,6 +66,9 @@
    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" height="40"/>
+  <img width="12" />
+   <img src="https://miro.medium.com/v2/resize:fit:1400/1*UY8Ew9W6VR6wwnU9kavWvg.jpeg" height="40" alt="beautiful soup logo"  />
+</div>
 </div>
 
 ###
