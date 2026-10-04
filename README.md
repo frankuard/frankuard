@@ -59,8 +59,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
@@ -78,6 +76,8 @@
    <img src="https://miro.medium.com/v2/resize:fit:1400/1*UY8Ew9W6VR6wwnU9kavWvg.jpeg" height="40" alt="beautiful soup logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWo2kFOA8QGCbkqd3c9Hn7HEUThs1jY-lYC-yMO55ISU7Jq4lsiWciThn&s=10" height="40" alt="langchainlogo"  />
 </div>
 </div>
 
@@ -108,7 +108,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
-  <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" height="40" alt="packet tracer"  />
+  <img src="https://img.utdstc.com/icon/3c9/4ad/3c94adae7a0cb3ecc5d94d0bc68cc1e3100754ec58d905936c2f0c2742843c98:600" height="40" alt="packet tracer"  />
   <img width="12" />
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*8_XcK-4JejVJIpccI8TJow.jpeg" height="40" alt="wireshark logo"  />
   </div>
